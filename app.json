@@ -2,5 +2,5 @@
   "name": "cors-anywhere",
   "description": "cors",
   "image": "heroku/nodejs",
-  "repository": "https://github.com/fawazahmed95/cors-anywhere",
+  "repository": "https://github.com/fawazahmed95/cors-anywhere"
 }
