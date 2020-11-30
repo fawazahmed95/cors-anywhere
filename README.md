@@ -13,7 +13,7 @@ The app can be configured to require a header for proxying a request, for exampl
 a direct visit from the browser.
 
 ## Example
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ```javascript
 // Listen on a specific host via the HOST environment variable
 var host = process.env.HOST || '0.0.0.0';
