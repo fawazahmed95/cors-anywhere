@@ -1,0 +1,6 @@
+{
+  "name": "cors-anywhere",
+  "description": "cors",
+  "image": "heroku/node",
+  "repository": "https://github.com/fawazahmed95/cors-anywhere",
+}
